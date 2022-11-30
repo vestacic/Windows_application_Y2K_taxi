@@ -1,0 +1,11 @@
+C:\Users\Vesta\source\repos\Taksi\Taksi\bin\Debug\Taksi.exe.config
+C:\Users\Vesta\source\repos\Taksi\Taksi\bin\Debug\Taksi.exe
+C:\Users\Vesta\source\repos\Taksi\Taksi\bin\Debug\Taksi.pdb
+C:\Users\Vesta\source\repos\Taksi\Taksi\obj\Debug\Taksi.Form1.resources
+C:\Users\Vesta\source\repos\Taksi\Taksi\obj\Debug\Taksi.Properties.Resources.resources
+C:\Users\Vesta\source\repos\Taksi\Taksi\obj\Debug\Taksi.csproj.GenerateResource.cache
+C:\Users\Vesta\source\repos\Taksi\Taksi\obj\Debug\Taksi.csproj.CoreCompileInputs.cache
+C:\Users\Vesta\source\repos\Taksi\Taksi\obj\Debug\Taksi.exe
+C:\Users\Vesta\source\repos\Taksi\Taksi\obj\Debug\Taksi.pdb
+C:\Users\Vesta\source\repos\Taksi\Taksi\obj\Debug\Taksi.csproj.AssemblyReference.cache
+C:\Users\Vesta\source\repos\Taksi\Taksi\obj\Debug\Taksi.csproj.SuggestedBindingRedirects.cache

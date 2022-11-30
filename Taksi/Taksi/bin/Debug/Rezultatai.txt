@@ -1,0 +1,19 @@
+Pirmos firmos duomenys:
+Bolt
+-------------------------------------------------------
+|Pavardė   |Markė     |Numeris |Metai|Spalva    |Rida |
+-------------------------------------------------------
+|Jonaitis  |Citroen   |ABC123  | 2020|Juoda     |  115|
+|Petraitis |Peugeot   |DEF546  | 2003|Juoda     |  114|
+|Juozaitis |Renault   |REG879  | 2005|Juoda     |  154|
+-------------------------------------------------------
+
+Antros firmos duomenys:
+Wolt
+-------------------------------------------------------
+|Pavardė   |Markė     |Numeris |Metai|Spalva    |Rida |
+-------------------------------------------------------
+|Juokaitis |Porsche   |WOL145  | 2009|Juoda     |  100|
+|Monaitis  |Volvo     |QOL756L | 2015|Juoda     |  154|
+-------------------------------------------------------
+
